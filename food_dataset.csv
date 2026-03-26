@@ -1,0 +1,11 @@
+food,calories,protein,carbs,fats,type
+rice,130,2.7,28,0.3,plant
+idli,58,2,12,0.4,plant
+dosa,133,3,18,5,processed
+apple,52,0.3,14,0.2,plant
+banana,96,1.3,27,0.3,plant
+egg,155,13,1.1,11,animal
+chicken,239,27,0,14,animal
+bread,265,9,49,3.2,processed
+vegetables,50,2,10,0.5,plant
+milk,42,3.4,5,1,animal
